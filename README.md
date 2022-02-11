@@ -8,3 +8,7 @@ This is Creative Coding - the possibilities are endless!
 ## View Here
 
 [Particle System](https://godofgeeks23/github.io/particle_system_js)
+
+## Author
+
+[@godofgeeks23](https://github.com/godofgeeks23)
