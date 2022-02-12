@@ -66,7 +66,7 @@ body
 }
 
 .content {
-    height: calc(100vh - 80px - 50px);
+    /* height: calc(100vh - 80px - 50px); */
 }
 
 .header {
@@ -75,7 +75,8 @@ body
     justify-content: space-between;
     /* flex-direction: column; */
     padding: 0.5rem 0;
-    height: calc(100vh - 400px);
+    /* height: calc(100vh - 400px); */
+    /* min-height: 300px; */
 }
 
 .title {
@@ -145,11 +146,11 @@ body
     .header {
         flex-direction: column;
         justify-content: flex-start;
-        height: calc(100vh - 500px);
+        /* height: calc(100vh - 500px); */
     }
 
     .title {
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
 
     .list_item {
